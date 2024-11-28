@@ -4,19 +4,15 @@ Sóc en Daniel, un **programador full-stack** amb experiència en desenvolupamen
 
 M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
 
-
 ## 💻 Skillset i Eines
 
-| **Frontend**         | **Backend**                | **IDE**                  | **Altres Eines**      |
-|-----------------------|----------------------------|--------------------------|-----------------------|
-| - HTML, CSS          | - Flask                   | - Android Studio         | - Git (GitHub)        |
-| - Flutter (Dart)     | - Node.js (Express)       | - Visual Studio Code     | - Thunder Client      |
-| - Java, Kotlin       | - APIs RESTful            | - PyCharm                | - Postman             |
-| - Python             | - Autenticació (JWT, bcrypt) | - IntelliJ IDEA         |                       |
-|                      |                            |                          |                       |
-| **Bases de Dades**   |                            |                          |                       |
-| - MongoDB            |                            |                          |                       |
-| - PostgreSQL         |                            |                          |                       |
+| **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres Eines**      |
+|-----------------------|----------------------------|--------------------------|--------------------------|-----------------------|
+| - HTML, CSS          | - Flask                   | - MongoDB               | - Android Studio         | - Git (GitHub)        |
+| - Flutter (Dart)     | - Node.js (Express)       | - PostgreSQL            | - Visual Studio Code     | - Thunder Client      |
+| - Java, Kotlin       | - APIs RESTful            |                          | - PyCharm                | - Postman             |
+| - Python             | - Autenticació (JWT, bcrypt) |                          | - IntelliJ IDEA         |                       |
+
 
 
 
