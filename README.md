@@ -20,6 +20,8 @@ Mostro un exemple de cada repositori però dintre del repositori hi ha altres pr
 - **[Backend](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API que permet la gestió d'un hospital codificada amb Node.js.
 - **[Full-stack](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
 
+Pots veure tots els projectes a la secció de repositoris.
+
 ## 📫 Contacte
 
 - **Mail**: danielbernardograset@gmail.com
