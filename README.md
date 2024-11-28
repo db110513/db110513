@@ -22,8 +22,6 @@ M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari
 ### Bases de dades
 - MongoDB
 - PostgreSQL
-- MySQL
-- SQLite
 
 ### IDE
 - Android Studio
