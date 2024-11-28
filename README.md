@@ -31,4 +31,4 @@ Si vols posar-te en contacte amb mi, fes-ho a través de:
 - LinkedIn: https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
 
 
-              **Gràcies per visitar el meu perfil!**
+     **Gràcies per visitar el meu perfil!**
