@@ -27,8 +27,8 @@ Aquí tens alguns dels meus projectes més recents:
 
 Si vols posar-te en contacte amb mi, fes-ho a través de:
 
-- Mail > danielbernardograset@gmal.com
-- LinkedIn > https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
+- Mail: danielbernardograset@gmal.com
+- LinkedIn: https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
 
 
-Gràcies per visitar el meu perfil!
+              **Gràcies per visitar el meu perfil!**
