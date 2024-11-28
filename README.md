@@ -8,10 +8,10 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 | **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres Eines**      |
 |-----------------------|----------------------------|--------------------------|--------------------------|-----------------------|
-| - HTML, CSS          | - Flask                   | - MongoDB               | - Android Studio         | - Git (GitHub)        |
-| - Flutter (Dart)     | - Node.js (Express)       | - PostgreSQL            | - Visual Studio Code     | - Thunder Client      |
-| - Java, Kotlin       | - APIs RESTful            |                          | - PyCharm                | - Postman             |
-| - Python             | - Autenticació (JWT, bcrypt) |                          | - IntelliJ IDEA         |                       |
+| HTML, CSS          | - Flask                   | - MongoDB               | - Android Studio         | - Git (GitHub)        |
+| Flutter (Dart)     | - Node.js (Express)       | - PostgreSQL            | - Visual Studio Code     | - Thunder Client      |
+| Java, Kotlin       | - APIs RESTful            |                          | - PyCharm                | - Postman             |
+| Python             | - Autenticació (JWT, bcrypt) |                          | - IntelliJ IDEA         |                       |
 
 
 
