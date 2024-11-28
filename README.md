@@ -25,5 +25,3 @@ Els projectes es troben situats en funció de la seva finalitat als 3 repositori
 - Mail: danielbernardograset@gmal.com
 - LinkedIn: https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
 
-
-     **Gràcies per visitar el meu perfil!**
