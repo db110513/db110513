@@ -7,8 +7,11 @@ M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari
 
 💻 Skillset
 Frontend: HTML, CSS, Flutter (Dart), Java, Kotlin, Python.
+
 Backend: Node.js (Express), APIs RESTful, Autenticació i Autorització (JWT, bcrypt).
+
 Bases de dades: MongoDB, PostgreSQL, MySQL.
+
 Altres: Git, Docker, Visual Studio Code, Thunder Client.
 
 
