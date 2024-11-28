@@ -7,9 +7,9 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 | **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres**      |
 |-----------------------|----------------------------|--------------------------|--------------------------|-----------------------|
-| HTML, CSS            | Node.js (Express)          | MongoDB                 | Android Studio           | Git (GitHub)          |
+| HTML - CSS            | Node.js (Express)          | MongoDB                 | Android Studio           | Git (GitHub)          |
 | Flutter (Dart)       | Flask                      | PostgreSQL              | Visual Studio Code       | Thunder Client        |
-| Java, Kotlin         | APIs RESTful               |                          | PyCharm                  | Postman               |
+| Java - Kotlin         | APIs RESTful               |                          | PyCharm                  | Postman               |
 | Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            | Multer                      |
 
 ## 🚀 Projectes Destacats
