@@ -14,12 +14,10 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 ## Projectes Destacats
 
-Els meus projectes es troben agrupats en 3 repositoris segons la seva finalitat:
+Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
-Mostro un exemple de cada repositori però dintre se'n poden trobar añtres projectes.
-
-- **[[Projecte frontend](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Descripció breu del projecte i les tecnologies utilitzades.
-- **[Projecte backend](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
+- **[[Projecte frontend](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Joc que emula al Pacman codificat amb Java.
+- **[Projecte backend](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: Descripció breu del projecte i les tecnologies utilitzades.
 - **[Projecte full-stack](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
 
 ## 📫 Contacte
