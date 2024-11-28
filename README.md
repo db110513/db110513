@@ -1,6 +1,6 @@
 # 👋 Benvingut al meu perfil!
 
-Sóc en Daniel, un **programador full-stack** amb experiència en desenvolupament de mobile apps. 
+Sóc en Daniel, un programador full-stack amb experiència en desenvolupament de mobile apps. 
 
 M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari mitjançant una API.
 
