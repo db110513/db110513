@@ -9,13 +9,24 @@ M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari
 
 Frontend: HTML, CSS, Flutter (Dart), Java, Kotlin, Python.
 
-Backend: Node.js (Express), APIs RESTful, Autenticació i Autorització (JWT, bcrypt).
+Backend: Node.js (Express), Flask APIs, Autenticació i Autorització (JWT, bcrypt).
 
 Bases de dades: MongoDB, PostgreSQL, MySQL.
 
 Altres: Git, Docker, Visual Studio Code, Thunder Client.
 
 
+## 🧰 Les meves eines
+
+IDE: Visual Studio Code, PyCharm.
+
+Backend: Flask, Node.js, SQLAlchemy.
+
+Control de versions: Git (GitHub).
+
+Testing: Postman, Thunder Client, pytest.
+
+Altres: Docker, pgAdmin, SQLite Browser.
 
 ## Sobre Mi
 
