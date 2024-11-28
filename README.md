@@ -12,6 +12,47 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 | Java - Kotlin           | APIs RESTful               |                          | PyCharm                  | Postman               |
 | Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            | Multer                      |
 
+## 💻 Eines
+
+<table>
+  <tr>
+    <th><strong>Frontend</strong></th>
+    <th><strong>Backend</strong></th>
+    <th><strong>BBDD</strong></th>
+    <th><strong>IDE</strong></th>
+    <th><strong>Altres</strong></th>
+  </tr>
+  <tr>
+    <td>HTML, CSS</td>
+    <td>Node.js (Express)</td>
+    <td>MongoDB</td>
+    <td>Android Studio</td>
+    <td>Git (GitHub)</td>
+  </tr>
+  <tr>
+    <td>Flutter (Dart)</td>
+    <td>Flask</td>
+    <td>PostgreSQL</td>
+    <td>Visual Studio Code</td>
+    <td>Thunder Client</td>
+  </tr>
+  <tr>
+    <td>Java, Kotlin</td>
+    <td>APIs RESTful</td>
+    <td>SQLite</td>
+    <td>PyCharm</td>
+    <td>Postman</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Autenticació (JWT, bcrypt)</td>
+    <td></td>
+    <td>IntelliJ IDEA</td>
+    <td>Multer</td>
+  </tr>
+</table>
+
+
 ## 🚀 Projectes Destacats
 
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
