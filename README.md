@@ -11,10 +11,10 @@ Actualment estic treballant en projectes que impliquen tecnologies com **JavaScr
 
 ## Habilitats
 
-- **Llenguatges de Programació**: JavaScript, Python, etc.
-- **Frameworks**: React, Node.js, Express, Django, etc.
-- **Bases de Dades**: MongoDB, MySQL, PostgreSQL, etc.
-- **Altres Tecnologies**: Docker, Git, APIs RESTful, etc.
+- **Llenguatges de Programació**: JavaScript, Python, Dart, Java, Kotlin.
+- **Frameworks**: Flutter, Node.js, Express.
+- **Bases de Dades**: MongoDB, MySQL, PostgreSQL.
+- **Altres Tecnologies**: GitHub, Git, APIs RESTful.
 
 ## Projectes Destacats
 
