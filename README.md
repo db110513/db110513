@@ -1,6 +1,6 @@
-# Benvinguts al meu perfil de GitHub!
+# Benvingut al meu perfil de GitHub!
 
-Hola! Sóc [El Teu Nom], un **programador fullstack** apassionat amb experiència en el desenvolupament d'aplicacions web. M'agrada crear solucions innovadores tant al costat del client com al servidor.
+Hola! Sóc en Daniel, un **programador fullstack** apassionat amb experiència en el desenvolupament d'aplicacions web. M'agrada crear solucions innovadores tant al costat del client com al servidor.
 
 ## Sobre Mi
 
