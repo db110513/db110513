@@ -14,7 +14,9 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 ## Projectes Destacats
 
-Els meus projectes es troben agrupats en tres repositoris principals segons la seva finalitat:
+Els meus projectes es troben agrupats en 3 repositoris segons la seva finalitat:
+
+Mostro un exemple de cada repositori però dintre se'n poden trobar añtres projectes.
 
 - **[[Projecte frontend](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Descripció breu del projecte i les tecnologies utilitzades.
 - **[Projecte backend](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
