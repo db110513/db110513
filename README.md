@@ -5,7 +5,8 @@ Sóc en Daniel, un **programador full-stack** amb experiència en el desenvolupa
 M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
 
 
-💻 Skillset
+##💻 Skillset
+
 Frontend: HTML, CSS, Flutter (Dart), Java, Kotlin, Python.
 
 Backend: Node.js (Express), APIs RESTful, Autenticació i Autorització (JWT, bcrypt).
