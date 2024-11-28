@@ -44,7 +44,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 </table>
 
 
-## 🚀 Projectes destacats
+## 🚀 Projectes
 
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
