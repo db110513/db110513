@@ -18,14 +18,9 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 ## Projectes Destacats
 
-Aquí tens alguns dels meus projectes més recents:
-
-- **[Nom del Projecte 1](enllaç-al-projecte-1)**: Breu descripció del projecte i les tecnologies utilitzades.
-- **[Nom del Projecte 2](enllaç-al-projecte-2)**: Breu descripció del projecte i les tecnologies utilitzades.
+Els projectes es troben situats en funció de la seva finalitat als 3 repositoris existents.
 
 ## 📫 Contacte
-
-Si vols posar-te en contacte amb mi, fes-ho a través de:
 
 - Mail: danielbernardograset@gmal.com
 - LinkedIn: https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
