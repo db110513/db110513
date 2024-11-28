@@ -9,12 +9,18 @@ M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari
 
 Actualment estic treballant en projectes que impliquen tecnologies com **JavaScript**, **React**, **Node.js** i **MongoDB**. M'agrada aprendre noves tecnologies i millorar les meves habilitats per oferir la millor experiència d'usuari possible.
 
-## Habilitats
+
+## Backend
+
+- 
+## Frontend
 
 - **Llenguatges de Programació**: JavaScript, Python, Dart, Java, Kotlin.
 - **Frameworks**: Flutter, Node.js, Express.
 - **Bases de Dades**: MongoDB, MySQL, PostgreSQL.
-- **Altres Tecnologies**: GitHub, Git, APIs RESTful.
+- **Altres Tecnologies**: APIs, GitHub, Git.
+
+
 
 ## Projectes Destacats
 
@@ -25,9 +31,10 @@ Aquí tens alguns dels meus projectes més recents:
 
 ## Contacte
 
-Si vols posar-te en contacte amb mi o saber més sobre els meus projectes, no dubtis a fer-ho a través de:
+Si vols posar-te en contacte amb mi, no dubtis a fer-ho a través de:
 
-- LinkedIn > https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
 - Mail > danielbernardograset@gmal.com
+- LinkedIn > https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/
+
 
 Gràcies per visitar el meu perfil!
