@@ -5,6 +5,9 @@ Sóc en Daniel, un **programador full-stack** amb experiència en desenvolupamen
 M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
 
 
+
+
+
 ## 💻 Skillset i Eines
 
 ### Frontend
