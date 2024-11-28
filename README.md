@@ -5,15 +5,6 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 ## 💻 Eines
 
-|    **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres**      |
-|-----------------------|----------------------------|--------------------------|--------------------------|-----------------------|
-| HTML - CSS                       | Node.js (Express)          | MongoDB                 | Android Studio           | Git (GitHub)          |
-| Flutter (Dart)       | Flask                      | PostgreSQL              | Visual Studio Code       | Thunder Client        |
-| Java - Kotlin           | APIs RESTful               |                          | PyCharm                  | Postman               |
-| Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            | Multer                      |
-
-## 💻 Eines
-
 <table>
   <tr>
     <th><strong>Frontend</strong></th>
@@ -23,7 +14,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <th><strong>Altres</strong></th>
   </tr>
   <tr>
-    <td>HTML, CSS</td>
+    <td>HTML - CSS</td>
     <td>Node.js (Express)</td>
     <td>MongoDB</td>
     <td>Android Studio</td>
@@ -37,7 +28,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td>Thunder Client</td>
   </tr>
   <tr>
-    <td>Java, Kotlin</td>
+    <td>Java - Kotlin</td>
     <td>APIs RESTful</td>
     <td>SQLite</td>
     <td>PyCharm</td>
