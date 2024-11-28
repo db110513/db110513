@@ -3,14 +3,14 @@
 Sóc en Daniel, un programador **full-stack** amb experiència desenvolupant **mobile apps**.  
 M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari mitjançant una API.
 
-## 💻 Skillset i Eines
+## 💻 Eines
 
-| **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres Eines**      |
+| **Frontend**         | **Backend**                | **BBDD**                | **IDE**                  | **Altres**      |
 |-----------------------|----------------------------|--------------------------|--------------------------|-----------------------|
 | HTML, CSS            | Node.js (Express)          | MongoDB                 | Android Studio           | Git (GitHub)          |
 | Flutter (Dart)       | Flask                      | PostgreSQL              | Visual Studio Code       | Thunder Client        |
 | Java, Kotlin         | APIs RESTful               |                          | PyCharm                  | Postman               |
-| Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            |                       |
+| Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            | Multer                      |
 
 ## Projectes Destacats
 
