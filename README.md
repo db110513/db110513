@@ -1,47 +1,26 @@
 # 👋 Benvingut al meu perfil!
 
-Sóc en Daniel, un **programador full-stack** amb experiència en el desenvolupament de mobile apps. 
+Sóc en Daniel, un **programador full-stack** amb experiència en desenvolupament de mobile apps. 
 
 M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
 
 
-## 💻 Skillset
+
+## 🛠️ Skillset i Eines
 
 Frontend: HTML, CSS, Flutter (Dart), Java, Kotlin, Python.
 
-Backend: Node.js (Express), Flask APIs, Autenticació i Autorització (JWT, bcrypt).
+Backend: Flask, Node.js (Express), APIs RESTful, autenticació (JWT, bcrypt).
 
-Bases de dades: MongoDB, PostgreSQL, MySQL.
+Bases de dades: MongoDB, PostgreSQL, MySQL, SQLite.
 
-Altres: Git, Docker, Visual Studio Code, Thunder Client.
+IDE: Android Studio, Visual Studio Code, PyCharm, IntelliJ IDEA.
 
-
-## 🧰 Les meves eines
-
-IDE: Visual Studio Code, PyCharm.
-
-Backend: Flask, Node.js, SQLAlchemy.
-
-Control de versions: Git (GitHub).
-
-Testing: Postman, Thunder Client, pytest.
-
-Altres: Docker, pgAdmin, SQLite Browser.
-
-## Sobre Mi
-
-Actualment estic treballant en projectes que impliquen tecnologies com **JavaScript**, **React**, **Node.js** i **MongoDB**. M'agrada aprendre noves tecnologies i millorar les meves habilitats per oferir la millor experiència d'usuari possible.
+Altres eines: Git (GitHub), Thunder Client, pgAdmin, SQLite Browser.
 
 
-## Backend
 
-- 
-## Frontend
 
-- **Llenguatges de Programació**: JavaScript, Python, Dart, Java, Kotlin.
-- **Frameworks**: Flutter, Node.js, Express.
-- **Bases de Dades**: MongoDB, MySQL, PostgreSQL.
-- **Altres Tecnologies**: APIs, GitHub, Git.
 
 
 
