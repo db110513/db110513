@@ -5,6 +5,40 @@ Sóc en Daniel, un **programador full-stack** amb experiència en desenvolupamen
 M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
 
 
+## 💻 Skillset i Eines
+
+### Frontend
+- HTML, CSS
+- Flutter (Dart)
+- Java, Kotlin
+- Python
+
+### Backend
+- Flask
+- Node.js (Express)
+- APIs RESTful
+- Autenticació i Autorització (JWT, bcrypt)
+
+### Bases de dades
+- MongoDB
+- PostgreSQL
+- MySQL
+- SQLite
+
+### IDE
+- Android Studio
+- Visual Studio Code
+- PyCharm
+- IntelliJ IDEA
+
+### Altres eines
+- Git (GitHub)
+- Thunder Client
+- pgAdmin
+- SQLite Browser
+
+
+
 
 ## 🛠️ Skillset i Eines
 
