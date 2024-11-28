@@ -1,4 +1,4 @@
-# Benvingut al meu perfil de GitHub!
+# Benvingut al meu perfil!
 
 Sóc en Daniel, un **programador full-stack** apassionat amb experiència en el desenvolupament de mobile apps. 
 
