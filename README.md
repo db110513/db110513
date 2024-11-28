@@ -16,7 +16,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
-- **[Frontend](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Joc que emula al Pacman codificat amb Java.
+- **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Aplicació per consola que emula el joc codificat amb Java.
 - **[Backend](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API que permet la gestió d'un hospital codificada amb Node.js.
 - **[Full-stack](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
 
