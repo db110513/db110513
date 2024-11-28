@@ -23,7 +23,7 @@ Aquí tens alguns dels meus projectes més recents:
 - **[Nom del Projecte 1](enllaç-al-projecte-1)**: Breu descripció del projecte i les tecnologies utilitzades.
 - **[Nom del Projecte 2](enllaç-al-projecte-2)**: Breu descripció del projecte i les tecnologies utilitzades.
 
-## Contacte
+## 📫 Contacte
 
 Si vols posar-te en contacte amb mi, fes-ho a través de:
 
