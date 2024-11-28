@@ -18,7 +18,7 @@ Mostro un exemple de cada repositori però dintre del repositori hi ha altres pr
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: Aplicació per consola que emula el joc codificat amb Java.
 - **[Hospital](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API que permet la gestió d'un hospital codificada amb Node.js.
-- **[Full-stack](enllaç)**: Descripció breu del projecte i les tecnologies utilitzades.
+- **[Menjar a Domicili]([enllaç](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar))**: Un cop registrat i fet login, l'usuari pot escollir plats per demanar-los a domicili.
 
 Pots veure tots els projectes a la secció de repositoris.
 
