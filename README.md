@@ -12,7 +12,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 | Java, Kotlin         | APIs RESTful               |                          | PyCharm                  | Postman               |
 | Python               | Autenticació (JWT, bcrypt) |                          | IntelliJ IDEA            | Multer                      |
 
-## Projectes Destacats
+## 🚀 Projectes Destacats
 
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
