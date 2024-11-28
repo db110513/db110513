@@ -7,32 +7,16 @@ M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari
 
 ## 💻 Skillset i Eines
 
-### Frontend
-- HTML, CSS
-- Flutter (Dart)
-- Java, Kotlin
-- Python
-
-### Backend
-- Flask
-- Node.js (Express)
-- APIs RESTful
-- Autenticació i Autorització (JWT, bcrypt)
-
-### Bases de dades
-- MongoDB
-- PostgreSQL
-
-### IDE
-- Android Studio
-- Visual Studio Code
-- PyCharm
-- IntelliJ IDEA
-
-### Altres eines
-- Git (GitHub)
-- Thunder Client
-- Postman
+| **Frontend**         | **Backend**                | **IDE**                  | **Altres Eines**      |
+|-----------------------|----------------------------|--------------------------|-----------------------|
+| - HTML, CSS          | - Flask                   | - Android Studio         | - Git (GitHub)        |
+| - Flutter (Dart)     | - Node.js (Express)       | - Visual Studio Code     | - Thunder Client      |
+| - Java, Kotlin       | - APIs RESTful            | - PyCharm                | - Postman             |
+| - Python             | - Autenticació (JWT, bcrypt) | - IntelliJ IDEA         |                       |
+|                      |                            |                          |                       |
+| **Bases de Dades**   |                            |                          |                       |
+| - MongoDB            |                            |                          |                       |
+| - PostgreSQL         |                            |                          |                       |
 
 
 
