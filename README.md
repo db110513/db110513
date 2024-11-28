@@ -1,6 +1,10 @@
 # Benvingut al meu perfil de GitHub!
 
-Hola! Sóc en Daniel, un **programador fullstack** apassionat amb experiència en el desenvolupament d'aplicacions web. M'agrada crear solucions innovadores tant al costat del client com al servidor.
+Sóc en Daniel, un **programador fullstack** apassionat amb experiència en el desenvolupament mobile apps. 
+
+M'agrada codificar projectes que permeten crear utilitats i serveis per l'usuari.
+
+
 
 ## Sobre Mi
 
