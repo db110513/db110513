@@ -1,4 +1,4 @@
-# Benvingut al meu perfil!
+# 👋 Benvingut al meu perfil!
 
 Sóc en Daniel, un **programador full-stack** amb experiència en el desenvolupament de mobile apps. 
 
