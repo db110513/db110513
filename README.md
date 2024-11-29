@@ -3,7 +3,7 @@
 Sóc en Daniel, un programador **full-stack** amb experiència desenvolupant **mobile apps**.  
 M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari mitjançant una API.
 
-## 💻 Eines
+### 💻 Eines
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 </table>
 
 
-## 🚀 Projectes
+### 🚀 Projectes
 
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
@@ -55,7 +55,7 @@ Mostro un exemple de cada repositori però dintre del repositori hi ha altres pr
 
 Pots veure tots els projectes a la secció de repositoris.
 
-## 📫 Contacte
+### 📫 Contacte
 
 - **Mail**: danielbernardograset@gmail.com
 - **LinkedIn**: [Daniel Bernardo Graset](https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/)
