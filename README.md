@@ -31,7 +31,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   <tr>
     <td>Java - Kotlin</td>
     <td>APIs RESTful</td>
-    <td>SQL</td>
+    <td>   SQL</td>
     <td>PyCharm</td>
     <td>Postman</td>
   </tr>
