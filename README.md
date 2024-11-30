@@ -15,14 +15,14 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <th><strong>Altres</strong></th>
   </tr>
   <tr>
-    <td>HTML - CSS</td>
+    <td>Flutter (Dart)</td>
     <td>Node.js (Express)</td>
     <td>SQL</td>
     <td>Android Studio</td>
     <td>Git (GitHub)</td>
   </tr>
   <tr>
-    <td>Flutter (Dart)</td>
+    <td></td>
     <td>React.js</td>
     <td>PostgreSQL</td>
     <td>Visual Studio Code</td>
