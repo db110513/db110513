@@ -37,7 +37,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   </tr>
   <tr>
     <td>HTML - CSS</td>
-    <td></td>
+    <td>Django.py</td>
     <td></td>
     <td>IntelliJ IDEA</td>
     <td>Multer</td>
