@@ -43,6 +43,10 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td>Multer</td>
   </tr>  
   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td>JWT - bcrypt</td>
   </tr>
 </table>
