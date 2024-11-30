@@ -36,18 +36,18 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td>Postman</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Multer</td>
-  </tr>
-  <tr>
     <td>Python</td>
     <td>Flask.py</td>
     <td></td>
     <td>IntelliJ IDEA</td>
     <td>Multer</td>
+  </tr>  
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>JWT - bcrypt</td>
   </tr>
 </table>
 
