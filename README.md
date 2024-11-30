@@ -32,14 +32,14 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td>React.js</td>
     <td>Flask.py</td>
     <td>MongoDB</td>
-    <td>PyCharm</td>
+    <td>IntelliJ</td>
     <td>Postman</td>
   </tr>
   <tr>
     <td>HTML - CSS</td>
     <td>Django.py</td>
     <td></td>
-    <td>IntelliJ IDEA</td>
+    <td>PyCharm</td>
     <td>Multer</td>
   </tr>  
   <tr>
