@@ -1,4 +1,4 @@
-# 👋 Benvingut !
+# 👋 Hola !
 
 Sóc en Daniel, un programador **full-stack** amb experiència desenvolupant **mobile apps**.  
 
