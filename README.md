@@ -46,7 +46,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Eclipse</td>
     <td>JWT - bcrypt</td>
   </tr>
 </table>
