@@ -23,21 +23,21 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   </tr>
   <tr>
     <td>Java - Kotlin</td>
-    <td>React.js</td>
+    <td>Spring Boot</td>
     <td>PostgreSQL</td>
     <td>Visual Studio Code</td>
     <td>Thunder Client</td>
   </tr>
   <tr>
     <td>React.js</td>
-    <td>Spring Boot</td>
+    <td>Flask.py</td>
     <td>MongoDB</td>
     <td>PyCharm</td>
     <td>Postman</td>
   </tr>
   <tr>
     <td>HTML - CSS</td>
-    <td>Flask.py</td>
+    <td></td>
     <td></td>
     <td>IntelliJ IDEA</td>
     <td>Multer</td>
