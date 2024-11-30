@@ -17,7 +17,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   <tr>
     <td>HTML - CSS</td>
     <td>Node.js (Express)</td>
-    <td>MongoDB</td>
+    <td>SQL</td>
     <td>Android Studio</td>
     <td>Git (GitHub)</td>
   </tr>
@@ -31,7 +31,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   <tr>
     <td>Java - Kotlin</td>
     <td>APIs RESTful</td>
-    <td>   SQL</td>
+    <td>MongoDB</td>
     <td>PyCharm</td>
     <td>Postman</td>
   </tr>
