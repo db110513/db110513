@@ -57,7 +57,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
-- **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app per mobile que permet realitzar una partida d'escacs
+- **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app per mobile que permet realitzar una partida d'escacs multijugador
 - **[Hospital](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API backend que permet la gestió d'un hospital codificada amb Node.js.
 - **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app en que un cop registrat i fet login, l'usuari pot escollir plats per demanar-los a domicili.
 - **[Parking](https://github.com/db110513/backend/tree/main/APIs/js/parking)**: API backend que permet la gestió d'un parking codificada amb Node.js.
