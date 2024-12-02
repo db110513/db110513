@@ -59,8 +59,8 @@ Mostro un exemple de cada repositori però dintre del repositori hi ha altres pr
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
 - **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb flutter per mobile que permet realitzar una partida d'escacs multijugador.
 - **[Hospital](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API backend que permet la gestió d'un hospital codificada amb Node.js.
-- **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app en que un cop registrat i fet login, l'usuari pot escollir plats per demanar-los a domicili.
-- **[Troba Parking](https://github.com/db110513/fullstack/tree/main/flutterNode.js/trobaParking)**: full-stack app de flutter i Node.js que permet veure les plaçes disponibles per aparcar.
+- **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
+- **[Troba Parking](https://github.com/db110513/fullstack/tree/main/flutterNode.js/trobaParking)**: full-stack app feta amb flutter i Node.js que permet veure les plaçes disponibles per aparcar.
 
 Pots veure tots els projectes a la secció de repositoris.
 
