@@ -17,7 +17,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   <tr>
     <td>Flutter (Dart)</td>
     <td>Node.js (Express)</td>
-    <td>SQL</td>
+    <td>MongoDB</td>
     <td>Android Studio</td>
     <td>Git (GitHub)</td>
   </tr>
@@ -31,7 +31,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   <tr>
     <td>React.js</td>
     <td>Flask.py</td>
-    <td>MongoDB</td>
+    <td>H2</td>
     <td>PyCharm</td>
     <td>Postman</td>
   </tr>
