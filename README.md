@@ -57,11 +57,16 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
+
 - **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb flutter per mobile que permet realitzar una partida d'escacs multijugador.
+
 - **[Hospital](https://github.com/db110513/backend/tree/main/APIs/js/hospital)**: API backend que permet la gestió d'un hospital codificada amb Node.js.
+
 - **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
+
 - **[Troba Parking](https://github.com/db110513/fullstack/tree/main/flutterNode.js/trobaParking)**: full-stack app feta amb flutter i Node.js que permet veure les plaçes disponibles per aparcar.
-- **[loTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack amb flutter i Node.js que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la ppetició al backend.
+
+- **[loTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack amb flutter i Node.js que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la petició al backend.
   
 Pots veure tots els projectes a la secció de repositoris, classificats a backend, frontend i full stack.
 
