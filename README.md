@@ -64,8 +64,6 @@ Mostro un exemple de cada repositori però dintre del repositori hi ha altres pr
 
 - **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
 
-- **[Troba Parking](https://github.com/db110513/fullstack/tree/main/flutterNode.js/trobaParking)**: full-stack app feta amb flutter i Node.js que permet veure les plaçes disponibles per aparcar.
-
 - **[loTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack amb flutter i Node.js que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la petició al backend.
   
 Pots veure tots els projectes a la secció de repositoris, classificats a backend, frontend i full stack.
