@@ -66,9 +66,6 @@ Mostro un petit vídeo del codi compilat en cada projecte:
 
 - **[LoTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack app que consumeix una API externa (wttr.in) que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la petició a L'API.
 
-- **[Busxtu](https://github.com/db110513/fullstack/tree/main/flutterNode.js/busxtu)**: full-stack app que permet veure la posició real de cada autobús de la línia de la ciutat de Reus.
-
-
 
 Pots veure tots els projectes a la secció de repositoris, classificats a backend, frontend i full stack.
 
