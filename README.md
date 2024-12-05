@@ -54,7 +54,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
 
 ### 🚀 Projectes
 
-Mostro un exemple de cada repositori però dintre del repositori hi ha altres projectes.
+Mostro un petit vídeo del codi compilat en cada projecte:
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
 
