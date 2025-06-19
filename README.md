@@ -23,7 +23,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
   </tr>
   <tr>
     <td>Java - Kotlin</td>
-    <td>Spring Boot</td>
+    <td>Hibernate</td>
     <td>H2</td>
     <td>Visual Studio Code</td>
     <td>Docker</td>
