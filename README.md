@@ -26,7 +26,7 @@ M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari
     <td>Spring Boot</td>
     <td>H2</td>
     <td>Visual Studio Code</td>
-    <td>Thunder Client</td>
+    <td>Docker</td>
   </tr>
   <tr>
     <td>React.js</td>
