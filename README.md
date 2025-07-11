@@ -2,7 +2,7 @@
 
 Sóc en Daniel, un programador **full-stack** amb experiència desenvolupant **mobile apps**.  
 
-M'agrada codificar projectes que permetin crear utilitats i serveis per l'usuari mitjançant una API.
+M'agrada codificar projectes que permetin crear utilitats i donar serveis per l'usuari mitjançant una API.
 
 ### 💻 Eines
 
