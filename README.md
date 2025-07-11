@@ -60,9 +60,9 @@ Mostro un petit vídeo del codi compilat en cada projecte:
  
 - **[comunicador](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per tablet
 
-- **[busXtots](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per mobile sobre les diferents linies d'autobús que ofereix Reus
+- **[busXtots](https://github.com/db110513/frontend/tree/main/flutter/busXtots)**: frontend app per mobile sobre les diferents linies d'autobús que ofereix Reus
 
-- - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
+- **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
  
 - **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb flutter per mobile que permet realitzar una partida d'escacs multijugador.
 
