@@ -58,7 +58,7 @@ Mostro un petit vídeo del codi compilat en cada projecte:
 
 
  
-- **[comunicador](https://github.com/db110513/fullstack/blob/main/flutterConsumeAPI/comunicador/readme.md)**: frontend app per tablet
+- **[comunicador](https://github.com/db110513/fullstack/blob/main/flutterConsumeAPI/comunicador/readme.md)**: comunicador CAA amb ús de pictogrames d'ARASAAC.
 
 - **[busXtots](https://github.com/db110513/frontend/tree/main/flutter/busXtots)**: frontend app per mobile sobre les diferents linies d'autobús que ofereix Reus.
 
