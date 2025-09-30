@@ -60,7 +60,7 @@ Mostro un petit vídeo del codi compilat en cada projecte:
  
 - **[comunicador](https://github.com/db110513/fullstack/blob/main/flutterConsumeAPI/comunicador/readme.md)**: comunicador CAA amb ús de pictogrames de l'API d'ARASAAC.
 
-- **[busXtots](https://github.com/db110513/frontend/tree/main/flutter/busXtots)**: frontend app amb Flutter per mobile sobre les diferents linies d'autobús que ofereix Reus.
+- **[busXtots](https://github.com/db110513/frontend/tree/main/Flutter/busXtots)**: frontend app amb Flutter per mobile sobre les diferents linies d'autobús que ofereix Reus.
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
  
