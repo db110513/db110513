@@ -60,15 +60,15 @@ Mostro un petit vídeo del codi compilat en cada projecte:
  
 - **[comunicador](https://github.com/db110513/fullstack/blob/main/flutterConsumeAPI/comunicador/readme.md)**: comunicador CAA amb ús de pictogrames de l'API d'ARASAAC.
 
-- **[busXtots](https://github.com/db110513/frontend/tree/main/flutter/busXtots)**: frontend app per mobile sobre les diferents linies d'autobús que ofereix Reus.
+- **[busXtots](https://github.com/db110513/frontend/tree/main/flutter/busXtots)**: frontend app amb Flutter per mobile sobre les diferents linies d'autobús que ofereix Reus.
 
 - **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
  
-- **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb flutter per mobile que permet realitzar una partida d'escacs multijugador.
+- **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb Flutter per mobile que permet realitzar una partida d'escacs multijugador.
 
 - **[Hospital](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/hospital)**: API backend que permet la gestió d'un hospital codificada amb Node.js
 
-- **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
+- **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb Flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
 
 - **[LoTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack app que consumeix una API externa (wttr.in) que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la petició a L'API.
 
