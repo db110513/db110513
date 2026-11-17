@@ -22,7 +22,7 @@ Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia
 * **[Comunicador CAA](https://github.com/db110513/comunicador):** Aplicación de comunicación aumentativa y alternativa (CAA) que integra pictogramas en tiempo real consumiendo la API de **ARASAAC**.
 * **[BusXtots](https://github.com/db110513/busXtots):** App móvil desarrollada en **Flutter** para la consulta de líneas, horarios y trayectos de autobuses en Reus.
 * **[Menjar a Domicili](https://github.com/db110513/fullstack):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
-* **[LoTemps](https://github.com/db110513/frontend):** Aplicación meteorológica que consume una API externa (`wttr.in`) para la consulta del tiempo en tiempo real.
+* **[meteo]([https://github.com/db110513/frontend](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/meteo)):** Aplicación meteorológica que consume una API externa (`wttr.in`) para la consulta del tiempo en tiempo real.
 
 ---
 
