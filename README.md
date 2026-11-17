@@ -23,7 +23,7 @@ Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia
 * **[BusXtots](https://github.com/db110513/busXtots):** App móvil desarrollada en **Flutter** para la consulta de líneas, horarios y trayectos de autobuses en Reus.
 * **[APIs]([https://github.com/db110513/busXtots](https://github.com/db110513/backend/tree/main/APIs)):** Creación de APIs en .java .js .py
 * **[Menjar a Domicili](https://github.com/db110513/fullstack):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
-* **[Parking]([https://github.com/db110513/fullstack](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/parking):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
+* **[Parking](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/parking):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
 * **[meteo]([https://github.com/db110513/frontend](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/meteo)):** Aplicación meteorológica que consume una API externa (`wttr.in`) para la consulta del tiempo en tiempo real.
 ---
 
