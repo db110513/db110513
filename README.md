@@ -1,81 +1,27 @@
-# Hola ! 👋
+# Hola, soy Daniel 👋
 
-Sóc en Daniel, un programador **full-stack** amb experiència desenvolupant **mobile apps**.  
+Soy un **Desarrollador Full-Stack Junior** (Titulado en DAM) especializado en el desarrollo de aplicaciones móviles y soluciones conectadas mediante APIs. Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia del usuario.
 
-M'agrada codificar projectes que permetin crear utilitats i donar serveis per l'usuari mitjançant una API.
+---
 
-### 💻 Eines
+### 💻 Stack Tecnológico
+| Frontend / Móvil | Backend | Bases de Datos | Herramientas y Entornos |
+| :--- | :--- | :--- | :--- |
+| **Flutter (Dart)** | Node.js (Express) | MongoDB | Git & GitHub |
+| Java / Kotlin | Python (Flask / Django) | PostgreSQL | Docker |
+| React.js / HTML-CSS | Java (Hibernate) | H2 | Postman / JWT |
+| Android Studio | Visual Studio Code | IntelliJ / PyCharm | Eclipse |
 
-<table>
-  <tr>
-    <th><strong>Frontend</strong></th>
-    <th><strong>Backend</strong></th>
-    <th><strong>BBDD</strong></th>
-    <th><strong>IDE</strong></th>
-    <th><strong>Altres</strong></th>
-  </tr>
-  <tr>
-    <td>Flutter (Dart)</td>
-    <td>Node.js (Express)</td>
-    <td>MongoDB</td>
-    <td>Android Studio</td>
-    <td>Git (GitHub)</td>
-  </tr>
-  <tr>
-    <td>Java - Kotlin</td>
-    <td>Hibernate</td>
-    <td>H2</td>
-    <td>Visual Studio Code</td>
-    <td>Docker</td>
-  </tr>
-  <tr>
-    <td>React.js</td>
-    <td>Flask.py</td>
-    <td>PostgreSQL</td>
-    <td>IntelliJ</td>
-    <td>Postman</td>
-  </tr>
-  <tr>
-    <td>HTML - CSS</td>
-    <td>Django.py</td>
-    <td></td>
-    <td>PyCharm</td>
-    <td>Multer</td>
-  </tr>  
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Eclipse</td>
-    <td>JWT - bcrypt</td>
-  </tr>
-</table>
+---
 
+### 🚀 Proyectos Destacados
+* **[Comunicador CAA](https://github.com/db110513/comunicador):** Aplicación de comunicación aumentativa y alternativa (CAA) que integra pictogramas en tiempo real consumiendo la API de **ARASAAC**.
+* **[BusXtots](https://github.com/db110513/busXtots):** App móvil desarrollada en **Flutter** para la consulta de líneas, horarios y trayectos de autobuses en Reus.
+* **[Menjar a Domicili](https://github.com/db110513/fullstack):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
+* **[LoTemps](https://github.com/db110513/frontend):** Aplicación meteorológica que consume una API externa (`wttr.in`) para la consulta del tiempo en tiempo real.
 
-### 🚀 Projectes
+---
 
-Mostro un petit vídeo del codi compilat en cada projecte:
-
-
- 
-- **[comunicador](https://github.com/db110513/fullstack/blob/main/flutterConsumeAPI/comunicador/readme.md)**: comunicador CAA amb ús de pictogrames de l'API d'ARASAAC.
-
-- **[busXtots](https://github.com/db110513/frontend/tree/main/Flutter/busXtots)**: frontend app amb Flutter per mobile sobre les diferents linies d'autobús que ofereix Reus.
-
-- **[Pacman](https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman)**: frontend app per desktop compilat en consola que emula el joc codificat amb Java.
- 
-- **[Escacs](https://github.com/db110513/frontend/tree/main/flutter/escacs)**: frontend app amb Flutter per mobile que permet realitzar una partida d'escacs multijugador.
-
-- **[Hospital](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/hospital)**: API backend que permet la gestió d'un hospital codificada amb Node.js
-
-- **[Menjar a domicili](https://github.com/db110513/fullstack/tree/main/flutterNode.js/compraMenjar)**: full-stack app feta amb Flutter i Node.js on l'usuari pot escollir plats per demanar-los a domicili.
-
-- **[LoTemps](https://github.com/db110513/fullstack/tree/main/flutterNode.js/loTemps)**: full-stack app que consumeix una API externa (wttr.in) que permet veure l'estat del temps en una ciutat que l'usuari busca des del frontend i envia la petició a L'API.
-
-
-Pots veure tots els projectes a la secció de repositoris, classificats a backend, frontend i full stack.
-
-### 📫 Contacte
-
-- **Mail**: danielbernardograset@gmail.com
-- **LinkedIn**: [Daniel Bernardo Graset](https://www.linkedin.com/in/daniel-bernardo-graset-37b36827b/)
+### 📫 ¿Cómo contactar conmigo?
+* **Email:** [danielbernardograset@gmail.com](mailto:danielbernardograset@gmail.com)
+* **LinkedIn:** [Daniel Bernardo Graset](https://linkedin.com)
