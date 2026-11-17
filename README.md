@@ -1,6 +1,8 @@
 # Hola, soy Daniel 👋
 
-Soy un **Desarrollador Full-Stack Junior** (Titulado en DAM) especializado en el desarrollo de aplicaciones móviles y soluciones conectadas mediante APIs. 
+Soy un **Desarrollador Full-Stack Junior** (titulado en DAM).
+
+Especializado en el desarrollo de aplicaciones móviles y soluciones conectadas mediante APIs. 
 
 Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia del usuario.
 
