@@ -25,6 +25,9 @@ Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia
 * **[Menjar a Domicili](https://github.com/db110513/fullstack):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
 * **[Parking](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/parking):** API implementada con Node.js para la gestión de un garaje.
 * **[Meteo]([https://github.com/db110513/frontend](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/meteo)):** Aplicación meteorológica que consume una API externa (`wttr.in`) para la consulta del tiempo en tiempo real.
+* **[Pacman](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/parking):** Juego 2D implementado con Java.
+
+* https://github.com/db110513/frontend/tree/main/java/jocs/jocs2D/pacman
 ---
 
 ### 📫 ¿Cómo contactar conmigo?
