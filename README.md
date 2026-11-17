@@ -20,7 +20,7 @@ Me apasiona crear software útil, accesible y enfocado en mejorar la experiencia
 
 ### 🚀 Proyectos Destacados
 * **[Comunicador CAA](https://github.com/db110513/comunicador):** Aplicación de comunicación aumentativa y alternativa (CAA) que integra pictogramas en tiempo real consumiendo la API de **ARASAAC**.
-* **[BusXtots](https://github.com/db110513/busXtots):** App móvil desarrollada en **Flutter** para la consulta de líneas, horarios y trayectos de autobuses en Reus.
+* **[BusXtots]([https://github.com/db110513/busXtots](https://github.com/db110513/frontend/tree/main/Flutter/busXtots)):** App móvil desarrollada en **Flutter** para la consulta de líneas, horarios y trayectos de autobuses en Reus.
 * **[APIs]([https://github.com/db110513/busXtots](https://github.com/db110513/backend/tree/main/APIs)):** Creación de APIs en .java .js .py
 * **[Menjar a Domicili](https://github.com/db110513/fullstack):** Aplicación Full-Stack integral con frontend en Flutter y backend en Node.js para la gestión y pedido de comida a domicilio.
 * **[Parking](https://github.com/db110513/backend/tree/main/APIs/.js/Node.js/parking):** API implementada con Node.js para la gestión de un garaje.
