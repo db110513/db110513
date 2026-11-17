@@ -1,4 +1,4 @@
-# Hola, soy Daniel 👋
+# Hola 👋
 
 Soy un **Desarrollador Full-Stack Junior** (titulado en DAM).
 
